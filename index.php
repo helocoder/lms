@@ -15,6 +15,7 @@
       <?php
       
       require 'partials/_navbar.php';
+      header("Location: ../lms/login.php");
       
       ?>
     <!---||||||||||||||||||||| NAV BAR|||||||||||||||||||||-->
